@@ -1,2 +1,3 @@
 # cms-docs-demo
-Demo: CMS docs
+
+Just demo example for internal use.
